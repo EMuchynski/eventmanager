@@ -14,4 +14,4 @@ Iteration: Time Targeting
 
 Iteration: Day of the Week Targeting
 
-[Event Manager](http://tutorials.jumpstartlab.com/projects/eventmanager.html#iteration:-day-of-the-week-targeting). from the Odin Project's [curriculum](http://www.theodinproject.com/courses/ruby-programming/lessons/file-i-o-and-serialization).
+[Event Manager](http://tutorials.jumpstartlab.com/projects/eventmanager.html#iteration:-day-of-the-week-targeting) from the Odin Project's [curriculum](http://www.theodinproject.com/courses/ruby-programming/lessons/file-i-o-and-serialization).
